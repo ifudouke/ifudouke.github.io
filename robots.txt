@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ifudouke.github.io/OHL/sitemap_index.txt
+Sitemap: https://ifudouke.github.io/PGR/sitemap_index.txt
+Sitemap: https://ifudouke.github.io/nKg/sitemap_index.txt
+Sitemap: https://ifudouke.github.io/ntJ/sitemap_index.txt
